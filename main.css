@@ -1,0 +1,71 @@
+*{
+	padding:0;
+	
+}
+body{
+	background: url('pictures/headphones.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	
+}
+h1{
+	font-family:Arial;
+	background-color:#00BFFF;
+	border:thick solid black;
+	border-radius:50px;
+	border-position:center;	
+	margin-left:350px;
+	margin-right:350px;
+	
+	
+}
+p{
+	font-size:24px;
+	
+}
+h3{
+	background-color:#00BFFF;
+	color:white;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+ol, li{
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.tb02{
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.b {
+      background-color: #87CEFA;
+      color: white;
+      border: none;
+      cursor: pointer;
+      padding:5px;
+      
+    }
+.a {
+      position: relative;
+      display: inline-block;
+    }
+.c {
+      display: none;
+      background-color: #F0FFFF;
+      width: 200px;
+    }
+.c a {
+      color: blue;
+      padding: 5px;
+      text-decoration: none;
+      display: block;
+    }
+.a:hover .c {
+      display: block;
+    }
+
+
